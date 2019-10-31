@@ -1,2 +1,1 @@
-# Tindog
-First finished project
+TinDog Starting Files
